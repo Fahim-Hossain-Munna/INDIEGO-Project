@@ -104,7 +104,12 @@ nav .search-warp{
 #hudai-tx .main .ex-img .img img {
 	width: 258px;
 }
-
+#hudai-tx .main .text .third-part .icon {
+	margin-left: 30px;
+}
+#hudai-tx .main .ex-img {
+	margin-top: 39px;
+}
 /* =======================================
                hudai details part end
 ===============================================*/
