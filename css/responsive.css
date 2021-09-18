@@ -1,0 +1,308 @@
+@media(min-width:320px) and (max-width:575px){
+    /* =======================================
+               Nav part start
+===============================================*/
+nav .logo img{
+    width: 178px;
+}
+.navbar-toggler {
+	background-color: transparent;
+	border: 1px solid #fff !important;
+}
+.navbar-toggler i{
+    color: #fff !important;
+}
+nav .navbarSupportedContent{
+    background: rgba(0, 0, 0,.5);
+}
+nav ul li {
+    margin: 10px 25px;
+}
+nav .search-warp{
+    display: none;
+}
+
+/* =======================================
+               Nav part end
+===============================================*/
+
+/* =======================================
+               banner part start
+===============================================*/
+#banner-part .text h3 {
+	font-size: 29px;
+	margin-top: -165px;
+}
+#banner-part .text h2 {
+	font-size: 43px;
+    margin-bottom: 24px;
+}
+#banner-part .text p {
+	width: 298px;
+
+}
+#banner-part .button {
+	margin-top: 34px !important;
+}
+#banner-part .slick-dots li {
+	margin: 6px 6px;
+}
+#banner-part .slick-dots li button {
+	width: 20px;
+	height: 20px;
+
+}
+#banner-part .slick-dots li button::before {
+	width: 10px;
+	height: 10px;
+
+}
+#banner-part .slick-dots {
+	bottom: 40px;
+
+}
+/* =======================================
+               banner part start
+===============================================*/
+
+/* =======================================
+               games part start
+===============================================*/
+#game-part {
+	padding: 50px;
+}
+#game-part .prev {
+	left: -32px;
+}
+#game-part .next {
+	right: -32px;
+}
+/* =======================================
+               games part end
+===============================================*/
+/* =======================================
+               hudai details part start
+===============================================*/
+#hudai-tx .main {
+	width: 100%;
+	display: block;
+    padding: 20px;
+}
+#hudai-tx .main .text {
+	width: 100%;
+}
+#hudai-tx .main .text .first-part p {
+	margin: 10px 10px;
+	margin-left: 11px;
+}
+#hudai-tx .main .text .sec-part p {
+	width: 257px;
+}
+#hudai-tx .main .text .third-part button {
+	margin-top: 25px;
+}
+#hudai-tx .main .ex-img .img img {
+	width: 258px;
+}
+
+/* =======================================
+               hudai details part end
+===============================================*/
+
+/* =======================================
+               post part start
+===============================================*/
+#post-part {
+	padding: 0px;
+}
+#post-part .title p {
+	width: 277px;
+}
+#post-part .item .sec-part span {
+	margin-left: 107px;
+}
+#post-part .item .sec-part p {
+	width: 220px;
+}
+#post-part .item .third-part .sec span {
+	margin-left: 97px;
+}
+/* =======================================
+               post part end
+===============================================*/
+
+/* =======================================
+               testimonial part start
+===============================================*/
+#testi-part {
+	padding-top: 30px;
+}
+#testi-part .item .text p {
+	width: 175px;
+
+}
+#testi-part .item .icon {
+	font-size: 68px;
+	margin-left: 174px;
+	margin-top: -15px;
+}
+#testi-part .slick-dots {
+	padding-bottom: 27px;
+}
+#testi-part .slick-dots li {
+	margin: 0 9px;
+}
+
+/* =======================================
+               testimonial part end
+===============================================*/
+/* =======================================
+               gallery part start
+===============================================*/
+#gallery-part .main ul{
+    padding-left: 0;
+}
+#gallery-part .main ul li {
+	margin: 5px 8px;
+	border: 1px solid #fff;
+}
+#gallery-part .s-mixxer .mix {
+	margin-left: 0px;
+
+}
+#gallery-part .s-mixxer .mix img {
+	width: 215px;
+}
+#gallery-part .s-mixxer .overlay h3 {
+	font-size: 16px;
+	width: 200px;
+	margin: 38px auto;
+
+}
+#gallery-part .s-mixxer .overlay .icon i {
+	margin: 0 6px;
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+}
+/* =======================================
+               gallery part end
+===============================================*/
+
+/* =======================================
+               venubox part start
+===============================================*/
+
+#venu-part .img .overlay i {
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+
+}
+#venu-part .img .overlay .video {
+	margin-top: 71px;
+}
+#venu-part .img .overlay h3 {
+	font-size: 14px;
+	margin-top: 35px;
+	margin-left: 17px;
+}
+#venu-part .img .overlay .sec-img {
+	margin-left: 16px;
+}
+#venu-part .img .overlay .sec-img .round {
+	width: 25px;
+	height: 25px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: -5px;
+}
+#venu-part .img .overlay .sec-img .text {
+	margin-left: 9px;
+	margin-top: -11px;
+}
+#venu-part .img .overlay .sec-img .text p {
+	font-size: 10px;
+}
+
+/* =======================================
+               venubox part end
+===============================================*/
+
+/* =======================================
+               pricing part start
+===============================================*/
+#pricing-part {
+	padding: 75px 0;
+}
+#pricing-part .price {
+	margin: 20px 30px;
+}
+#pricing-part .price:hover {
+	transform: scale(1);
+}
+#pricing-part .title h2 {
+	margin-bottom: 68px;
+}
+
+
+/* =======================================
+               pricing part end
+===============================================*/
+/* =======================================
+               form part start
+===============================================*/
+#form-part .overlay h2 {
+	font-size: 32px;
+}
+#form-part .overlay p {
+	font-size: 14px;
+}
+#form-part .overlay form {
+	margin-top: 35px;
+}
+.form-control {
+	font-size: 12px;
+}
+#form-part .overlay .form-control {
+	width: 91%;
+}
+/* =======================================
+               form part end
+===============================================*/
+/* =======================================
+               footer part start
+===============================================*/
+footer .overlay ul {
+	margin-top: 45px;
+}
+footer .overlay ul li {
+	margin-left: 27px;
+	font-size: 22px;
+}
+footer .overlay .text p {
+	margin-top: 56px;
+    padding-left: 0px;
+	width: 266px;
+}
+footer .footer-exit .text-a {
+    text-align: center;
+	font-size: 14px;
+    padding-left: 0px;
+}
+footer .footer-exit .text-b {
+	text-align: center;
+	padding-right: 0px;
+	font-size: 14px;
+}
+footer .footer-exit {
+	margin-top: 58px;
+}
+/* =======================================
+               footer part end
+===============================================*/
+/* ==================================================
+                 NO ENTRY GOT IT!!!!!
+========================================================*/
+
+}
