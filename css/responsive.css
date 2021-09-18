@@ -43,6 +43,7 @@ nav .search-warp{
 }
 #banner-part .button {
 	margin-top: 34px !important;
+	margin-left: 23px;
 }
 #banner-part .slick-dots li {
 	margin: 6px 6px;
@@ -58,8 +59,18 @@ nav .search-warp{
 
 }
 #banner-part .slick-dots {
-	bottom: 40px;
+	bottom: 35px;
 
+}
+#banner-part .icon-social {
+	display: flex;
+	margin: 204px 107px;
+}
+#banner-part .icon-social i {
+	margin: 16px 10px;
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
 }
 /* =======================================
                banner part start
@@ -105,7 +116,7 @@ nav .search-warp{
 	width: 258px;
 }
 #hudai-tx .main .text .third-part .icon {
-	margin-left: 30px;
+	margin-left: 27px;
 }
 #hudai-tx .main .ex-img {
 	margin-top: 39px;
